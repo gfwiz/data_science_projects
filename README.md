@@ -1,6 +1,14 @@
-A collection of different data science projects completed. 
+A collection of different data science projects completed:
 
-Project 1: Data Visualization, Linear Regression model
+Housing Price Predictive Model: Data Visualization, Feature Selection and Augmentation, Linear Regression model
+  Packages used: scikit-learn, numpy, skipi, pandas, matplotlib
 
-Project 2: Data preprocessing, Data visualization, KNN, Logistic regression, SVM   
-Project 3: Data preprocessing, Data visualization, Decision tree, Multi-Layer Perceptron, PCA, K-Means Clustering
+Simple Heart Disease Predictive Models: Data preprocessing, Data visualization, KNN, Logistic regression, SVM, Hyperparameter optimization, Model comparison
+  Packages used: numpy, pandas, matplotlib, sklearn
+
+Advanced Heart Disease Predictive Models: Data preprocessing, Data visualization, Decision tree, Multi-Layer Perceptron, PCA, K-Means Clustering, Hyperparameter optimization, Grid search, Result Visualization
+  Packages used: numpy, pandas, matplotlib, sklearn
+
+Hotel Reservation Cancellation Predictive Models: Data preprocessing, Data cleaning, Feature augmentation, Decision Tree, Multi-layer perceptron, Support Vector Machine, Grid Search, Result Visualization
+  Packages used: numpy, pandas, matplotlib, sklearn
+
